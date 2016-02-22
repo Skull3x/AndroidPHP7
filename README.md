@@ -18,4 +18,4 @@ In order to update your server to the next current version all you have to do is
 
 # I personally only use android to test my plugins, Android is not meant to be a(n) actual server
 
-# This will also discontinue your current use of the PocketMine-MP application sadly
+# This will also discontinue your current use of the PocketMine-MP application sadly. Server wise, till you're able if possible to use php7 within the app itself
