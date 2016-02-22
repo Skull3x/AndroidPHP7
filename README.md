@@ -6,7 +6,9 @@ https://github.com/ImagicalMine/IM-Android/blob/master/releases/apk/ImagicalMine
 
 Then start the application and press a and then b within the console.
 
-Now, go into your file manager and check to see if the folder Genisys or ImagicalMine is present and take the files within the archive and paste them there. Now you're done, go back into the console and press a and then b and your server will start!! PM me any errors if you need help!!
+Now, go into your file manager and check to see if the folder Genisys or ImagicalMine is present and take the files within the archive and paste them there. Now you're done, go back into the console and press a and then b and your server will start!! Email me any errors if you need help!!
+
+# jross3740@gmail.com
 
 # Archive link
 
