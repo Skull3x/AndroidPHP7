@@ -17,3 +17,5 @@ https://drive.google.com/file/d/0B5kykst79mKCaTZvR0I2TG5Henc/view?usp=docslist_a
 In order to update your server to the next current version all you have to do is go to unphar.com, paste the .phar into the converter and download the archive. Then take the src of the archive and replace your current src with the new one!!
 
 # I personally only use android to test my plugins, Android is not meant to be a(n) actual server
+
+# This will also discontinue your current use of the PocketMine-MP application sadly
